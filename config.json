@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrave",
+        "uuid": 22794720,
+        "checksum": "z94ibd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
